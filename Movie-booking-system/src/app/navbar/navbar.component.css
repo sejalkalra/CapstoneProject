@@ -1,0 +1,13 @@
+.navbar{
+    background-color: #bfb7eb;
+}
+
+
+#navbarNav{
+    display:flex;
+    justify-content: flex-end;
+}
+
+.nav-item{
+    font-size: 17px;
+}
